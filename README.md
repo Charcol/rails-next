@@ -16,3 +16,6 @@ http://www.youtube.com/user/c9ide.
 
 Happy coding!
 The Cloud9 IDE team
+
+Adding things to this readme as the rails next tutorial is requesting it.  
+This will be a web app created with Sinatra & Rails
