@@ -7,6 +7,6 @@ gem "activerecord"
 gem "sinatra-activerecord"
 
 group :development do
-  gem "shotgum"
+  gem "shotgun"
   gem "tux"
 end
